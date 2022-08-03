@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+/* Estilos para establecer una posicion absolua en el boten del footer*/
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.wrap {
+    padding-bottom: 60px;
+}
